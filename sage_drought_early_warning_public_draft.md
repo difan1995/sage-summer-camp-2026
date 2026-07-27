@@ -51,7 +51,7 @@ The dashboard separates the observed current condition from learned future forec
 
 Further architectural details, feature construction, training objectives, and fusion strategies are intentionally omitted from this public project description and will be reported in future peer-reviewed work.
 
-> **Figure 2 placeholder — High-level workflow.** Environmental observations and PhenoCam imagery are processed at the edge, combined under changing data availability, and converted into drought outlooks and a grounded user explanation.
+
 
 ## Edge Demonstration
 
@@ -61,6 +61,7 @@ The demonstration provides three complementary views.
 
 The Live Forecast interface accepts currently available sensor measurements, a recent image, or either modality independently. This allows the system to demonstrate prediction under incomplete observations rather than requiring every input to arrive at once.
 ![Edge demonstration](images/liveforecast.png)
+> **Figure 2 Live Forecast.** 
 ### Historical Replay
 
 Historical Replay reconstructs a selected point in the archive and shows how the output changes as additional observations become available. It is intended to represent asynchronous environmental data collection rather than claim that the archive contains original real-time ingestion timestamps.
