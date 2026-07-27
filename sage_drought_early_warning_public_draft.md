@@ -1,8 +1,8 @@
 # Multimodal Drought Early Warning at the Edge
 
-**Di Fan and collaborators**  
-**Affiliation:** [Add institution(s)]  
-**Email:** [Add contact email]
+**Di Fan  
+**Affiliation:** University of Florida
+**Email:** di.fan@ufl.edu
 
 ## Introduction
 
