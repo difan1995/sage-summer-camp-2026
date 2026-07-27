@@ -72,7 +72,7 @@ Model Evidence separates observation-based indicators from learned predictions a
 
 The numerical inference pipeline and dashboard currently run in a GPU-enabled container on an NVIDIA Thor development node. A locally hosted language model provides the explanatory interface. The scientific forecast remains available even when the language model is slow or unavailable.
 ![Edge demonstration](images/figure3_edge_demo.png)
-> **Figure 3 placeholder — Edge demonstration.** Live forecast, historical replay with delayed data arrival, model-evidence view, and natural-language explanation.
+> **Figure 3 Edge demonstration.** 
 
 ## Preliminary Findings
 
