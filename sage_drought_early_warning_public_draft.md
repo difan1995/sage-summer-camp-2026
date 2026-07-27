@@ -16,8 +16,7 @@ This project investigates multimodal drought early warning using the SAGE edge-c
 
 Texas is used here as a starting example rather than the final geographic scope. Future work will extend the study to sites in Colorado, Wyoming, and other climate regions to examine how well the approach transfers across different ecosystems and sensor configurations.
 ![Edge demonstration](images/figure1_motivation.png)
-> **Figure 1 placeholder — Project context.** CLBJ as the initial Texas pilot, NEON environmental and PhenoCam observations, the SAGE edge-computing environment, and planned multi-site expansion.
-
+> **Figure 1 Motivation.** 
 ### Our Work
 
 We developed a research prototype that combines environmental sensor histories with landscape imagery to estimate current drought conditions and provide short-term outlooks. The system is designed around a realistic operational constraint: all expected inputs may not be available at the same moment.
