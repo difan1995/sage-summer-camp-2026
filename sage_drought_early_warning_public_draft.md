@@ -71,7 +71,7 @@ Historical Replay reconstructs a selected point in the archive and shows how the
 Model Evidence separates observation-based indicators from learned predictions and highlights cases in which the sources of evidence agree, disagree, or are insufficient. This distinction is important for avoiding an overly confident interpretation of a research prototype.
 
 The numerical inference pipeline and dashboard currently run in a GPU-enabled container on an NVIDIA Thor development node. A locally hosted language model provides the explanatory interface. The scientific forecast remains available even when the language model is slow or unavailable.
-
+![Study context and planned multi-site expansion](images/figure3_edge_demo.png)
 > **Figure 3 placeholder — Edge demonstration.** Live forecast, historical replay with delayed data arrival, model-evidence view, and natural-language explanation.
 
 ## Preliminary Findings
