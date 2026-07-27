@@ -1,7 +1,7 @@
 # Multimodal Drought Early Warning at the Edge
 
-**Di Fan  
-**Affiliation:** University of Florida
+**Di Fan,  Levi	Johnson, John	Blackwell, Atefeh Hosseini
+**Affiliation:** University of Florida, Colorado State University, University of Kansas
 **Email:** di.fan@ufl.edu
 
 ## Introduction
