@@ -15,7 +15,7 @@ Using these observations in near real time is not straightforward. Environmental
 This project investigates multimodal drought early warning using the SAGE edge-computing ecosystem. We use the National Ecological Observatory Network (NEON) Caddo–Lyndon B. Johnson National Grasslands site (CLBJ) in north-central Texas as an initial pilot. CLBJ provides a useful combination of atmospheric, soil, and PhenoCam observations in a Southern Plains environment.
 
 Texas is used here as a starting example rather than the final geographic scope. Future work will extend the study to sites in Colorado, Wyoming, and other climate regions to examine how well the approach transfers across different ecosystems and sensor configurations.
-
+![Edge demonstration](images/figure1_motivation.png)
 > **Figure 1 placeholder — Project context.** CLBJ as the initial Texas pilot, NEON environmental and PhenoCam observations, the SAGE edge-computing environment, and planned multi-site expansion.
 
 ### Our Work
