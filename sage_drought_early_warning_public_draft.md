@@ -61,7 +61,7 @@ The demonstration provides three complementary views.
 ### Live Forecast
 
 The Live Forecast interface accepts currently available sensor measurements, a recent image, or either modality independently. This allows the system to demonstrate prediction under incomplete observations rather than requiring every input to arrive at once.
-
+![Edge demonstration](images/liveforecast.png)
 ### Historical Replay
 
 Historical Replay reconstructs a selected point in the archive and shows how the output changes as additional observations become available. It is intended to represent asynchronous environmental data collection rather than claim that the archive contains original real-time ingestion timestamps.
